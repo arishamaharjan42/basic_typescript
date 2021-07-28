@@ -26,7 +26,7 @@ greetPerson(me);
 
 
 
-import {Invoice} from './classes/invoice.js';
+import {Invoice} from './classes/invoice';
 
 
 const invOne = new Invoice('mario', 'work on the mario website', 250);
